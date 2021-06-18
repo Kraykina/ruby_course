@@ -1,0 +1,13 @@
+# frozen_string_literal: true
+
+desc 'Задача по умолчанию'
+task default: :load
+
+desc 'Текущая дата и время:'
+task :load do
+  puts 'Current date and time:'
+end
+
+task :load do
+  puts Time.now
+end
