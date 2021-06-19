@@ -1,1 +1,1 @@
-# GeekBrains University- course Ruby.
+# GeekBrains University - course Ruby.
