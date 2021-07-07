@@ -13,4 +13,4 @@ end
 print 'Please enter some numbers through spaces:'
 numbers = gets.strip.split(' ').map(&:to_i)
 
-puts sum(*numbers)
+sum(*numbers)
