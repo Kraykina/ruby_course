@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-# Get My Number Game
+# Get My Number Game.
 
 puts "Welcome to 'Get My Number!'"
 
